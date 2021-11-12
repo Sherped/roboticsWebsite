@@ -17,3 +17,5 @@ Notes:
 4, git status is to check the status
 5, git clean -f is to clean the untracked files
 6, remove all the local copy,  git checkout -- . will checkout a clean version from the remote repository
+
+Good luck
