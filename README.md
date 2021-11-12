@@ -8,4 +8,6 @@ Notes:
 2, Please follow the steps:
     1) git clone https://github.com/Sherped/roboticsWebsite.git
 	2) make the change
-	3) 
+	3) git add .
+	4) git commit -m "please summarizing what you have changed"
+	5) git push
